@@ -1,2 +1,2 @@
-# digitalsignage
-Digital signage dashboard displaying news, stocks, weather, and more.
+# welcome-dashboard
+Digital signage welcome dashboard displaying news, stocks, weather, and more.
